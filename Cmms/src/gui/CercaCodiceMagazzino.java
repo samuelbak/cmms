@@ -29,6 +29,8 @@ public class CercaCodiceMagazzino extends JFrame {
 	private static final long serialVersionUID = -8389981407557054614L;
 	private JPanel contentPane;
 	private JTextField textCodiceMagazzino;
+	
+	//test
 
 	
 	public CercaCodiceMagazzino() {
